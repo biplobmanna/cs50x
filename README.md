@@ -1,4 +1,4 @@
-# All the programs one while following through CS50x
+# All the programs done while following through CS50x
 
 ## Week 1
 * Basics
