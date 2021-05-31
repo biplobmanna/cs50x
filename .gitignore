@@ -1,0 +1,17 @@
+.vscode
+
+# only track the makefile & C-files
+Week_1/*
+!Week_1/*.c
+!Week_1/*.h
+!Week_1/makefile
+
+Week_2/*
+!Week_2/*.c
+!Week_2/*.h
+!Week_2/makefile
+
+Week_3/*
+!Week_3/*.c
+!Week_3/*.h
+!Week_3/makefile
