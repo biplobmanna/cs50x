@@ -1,6 +1,6 @@
 all: insertion selection bubble merge problem_sets
 
-problem_sets: plurality
+problem_sets: plurality runoff
 
 insertion: insertion_sort.c
 	gcc -o insertion insertion_sort.c
@@ -16,3 +16,6 @@ merge: merge_sort.c
 
 plurality: plurality.c
 	gcc -o plurality plurality.c
+
+runoff: runoff.c
+	gcc -o runoff runoff.c
